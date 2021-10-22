@@ -79,7 +79,7 @@
 
 ## סקר שוק
 
-##משחקים דומים:
+## משחקים דומים:
  
 * [PUBG](https://na.battlegrounds.pubg.com/)
  
