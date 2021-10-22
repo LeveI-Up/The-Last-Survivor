@@ -12,7 +12,7 @@
 
 המשחק מיועד לפלטפורמת המחשב, המשחק הינו משחק רב משתתפים ברשת (אולי בעתיד יצא לפלאפון)
  
-![138263586-a1940921-6f09-4caf-a682-3b54cf8db9ab](https://user-images.githubusercontent.com/74508134/138426185-243aa5cd-8718-47b5-a534-077db9298f90.jpg)
+![SUR](https://user-images.githubusercontent.com/20986238/138428878-16478bdd-3b1e-4e87-97a8-cb3000f38fbc.jpg)
 ---
 
 
