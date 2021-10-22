@@ -83,7 +83,7 @@
  
 * [PUBG](https://na.battlegrounds.pubg.com/)
  
-![header](https://user-images.githubusercontent.com/74508134/138426033-50a6af38-d910-44a2-ac27-5ab7188f2fa2.png)
+![PUBG](https://user-images.githubusercontent.com/20986238/138427431-ddb0ba77-6343-42ca-ae7c-c88c4b58008f.png)
  
 * [Fortnite](https://www.epicgames.com/fortnite/en-US/home/)
 
@@ -91,7 +91,7 @@
  
 * [Zooba](https://wildlifestudios.com/games/zooba/)
 
-![unnamed](https://user-images.githubusercontent.com/74508134/138426046-a36267b1-a940-480f-b1ba-5b0d539bc0ca.png)
+![ZOO](https://user-images.githubusercontent.com/20986238/138427426-4822358c-2866-4a0d-868b-aa2c96be0857.png)
 
 במשחקים אלו מטרת המשחק היא להישאר אחרון ולהרוג יריבים במשחק בדומה למשחק שלנו, אולם במשחק שלנו יש בנוסף את העניין ההישרדותי שהשחקן צריך לשמור על בריאותה של הדמות מבחינה פיזית (לאכול, להתאים עצמו לתנאי מזג האוויר) ואת האפקט של היחלשות של שחקן שנפגע במהלך המשחק ולא ריפא את עצמו בנוסף, שחקן שלא יגיע לאזור המסומן ימות בשונה ממשחקים אלו שחייו יורדים בקצב מסוים.
  
