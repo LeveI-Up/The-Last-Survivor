@@ -11,10 +11,8 @@
 מי יהיה האחרון שישרוד?
 
 המשחק מיועד לפלטפורמת המחשב, המשחק הינו משחק רב משתתפים ברשת (אולי בעתיד יצא לפלאפון)
-
-
-![תמונה1](https://user-images.githubusercontent.com/20986238/138263586-a1940921-6f09-4caf-a682-3b54cf8db9ab.png)
-
+ 
+![138263586-a1940921-6f09-4caf-a682-3b54cf8db9ab](https://user-images.githubusercontent.com/74508134/138426185-243aa5cd-8718-47b5-a534-077db9298f90.jpg)
 ---
 
 
@@ -44,6 +42,8 @@
   בנוסף השחקן נדרש להשתמש בעכבר על מנת לכוון את מצלמת המשחק.
 
 * השחקן אשר יצליח לשרוד אחרון ינצח את המשחק.
+ 
+![הורדה](https://user-images.githubusercontent.com/74508134/138425225-8d998d00-db9b-42ae-98a2-51f7012012a4.png)
 
 ### 4. חוקים
 * לשחקן יש כמות חיים מוגבלת שיורדת כאשר השחקן רעב/חולה/נפצע/נפל מגובה וכדו' שחקן שייגמרו לו החיים "ימות" ויצא מהמשחק. מפת המשחק מצטמצמת לכיוון מסוים במפה לאורך המשחק בהפרשי זמן מסוימים, שחקן שישהה מחוץ לאיזור לאחר הזמן ייפסל ויצא מהמשחק. במידה והשחקן פגוע הוא איטי יותר דבר המגביל עליו להתקדם במהירות לעבר היעד הבא שנדרש להגיע אליו במפה או לבצע פעולות לחימה.
@@ -83,15 +83,15 @@
  
 * [PUBG](https://na.battlegrounds.pubg.com/)
  
-![header](https://user-images.githubusercontent.com/74508134/138421785-c70502b5-89a5-4dd4-9815-8ff09c89ebfb.jpg)
+![header](https://user-images.githubusercontent.com/74508134/138426033-50a6af38-d910-44a2-ac27-5ab7188f2fa2.png)
  
 * [Fortnite](https://www.epicgames.com/fortnite/en-US/home/)
 
-![9a38099960fc9a8aacc65667fcf4adff897fefa8](https://user-images.githubusercontent.com/74508134/138422360-73dceb06-b458-4528-be3a-6c4fe0b912ae.jpg) 
+![9a38099960fc9a8aacc65667fcf4adff897fefa8](https://user-images.githubusercontent.com/74508134/138426201-a46ccd1e-dcde-4988-96ab-89399c5eb9b7.png)
  
 * [Zooba](https://wildlifestudios.com/games/zooba/)
 
-![unnamed](https://user-images.githubusercontent.com/74508134/138422043-16f181c3-f8f1-4438-a84a-bb01a567724a.jpg)
+![unnamed](https://user-images.githubusercontent.com/74508134/138426046-a36267b1-a940-480f-b1ba-5b0d539bc0ca.png)
 
 במשחקים אלו מטרת המשחק היא להישאר אחרון ולהרוג יריבים במשחק בדומה למשחק שלנו, אולם במשחק שלנו יש בנוסף את העניין ההישרדותי שהשחקן צריך לשמור על בריאותה של הדמות מבחינה פיזית (לאכול, להתאים עצמו לתנאי מזג האוויר) ואת האפקט של היחלשות של שחקן שנפגע במהלך המשחק ולא ריפא את עצמו בנוסף, שחקן שלא יגיע לאזור המסומן ימות בשונה ממשחקים אלו שחייו יורדים בקצב מסוים.
  
