@@ -87,7 +87,7 @@
  
 * [Fortnite](https://www.epicgames.com/fortnite/en-US/home/)
 
-![9a38099960fc9a8aacc65667fcf4adff897fefa8](https://user-images.githubusercontent.com/74508134/138426201-a46ccd1e-dcde-4988-96ab-89399c5eb9b7.png)
+![aa](https://user-images.githubusercontent.com/20986238/138427115-f8cfb5fc-6542-40ac-98a2-d0cfd8d608f5.png)
  
 * [Zooba](https://wildlifestudios.com/games/zooba/)
 
