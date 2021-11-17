@@ -46,14 +46,14 @@ MonoBehaviour:
   DirtTile: {fileID: 7494044891141591936, guid: b2dd74be16573c64b9feb45979f36f6f, type: 3}
   GrassTile: {fileID: 781675758799388612, guid: efb5295c4e0ef6445881d3e230cce386, type: 3}
   StoneTile: {fileID: 625372322322935851, guid: 3aa143b1cd46b9c42a28f056230193f7, type: 3}
-  tileDimond: {fileID: 4503887115365588175, guid: 4471b299d8d023448857d194c8924280, type: 3}
+  tileDimond: {fileID: 3673216056846345191, guid: 4471b299d8d023448857d194c8924280, type: 3}
   tileGold: {fileID: 8628492987780679399, guid: 30b5ac171c4573c4e8e0cd630a60e003, type: 3}
   tileIron: {fileID: 7645961695881549560, guid: afb14b1826932ce478baf52612c19414, type: 3}
   tileCoal: {fileID: 2527901335989544331, guid: 75635ead81c93384cac3b8ce64740ea0, type: 3}
-  chanceToDimond: 0.5
-  chanceToGold: 1
-  chanceToIron: 1.2
-  chanceToCoal: 2
+  chanceToDimond: 1
+  chanceToGold: 2
+  chanceToIron: 4
+  chanceToCoal: 5
   width: 25
   heightMultiplier: 10
   heightAddition: 10

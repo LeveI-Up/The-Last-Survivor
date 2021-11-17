@@ -1,11 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Character : MonoBehaviour
 {
     public float speed;
     public KeyCode jumpKey=KeyCode.Space;
+    GameObject destroy;
     public Sprite walkSprite;
     public Sprite idleSprite;
     public float jumpSpeed;
@@ -17,7 +19,10 @@ public class Character : MonoBehaviour
     RaycastHit2D hit;
 
 
-    // Update is called once per frame
+    void Start(){
+        destroy = GameObject.Find("Die");
+    }
+
     void Update()
     {
         Rigidbody2D r = GetComponent<Rigidbody2D>();
@@ -42,7 +47,7 @@ public class Character : MonoBehaviour
         }
 
         hit = Physics2D.Raycast(new Vector2(transform.position.x,transform.position.y),Vector2.down);
-        if(hit.distance<1.9f){
+        if(hit.distance<0.1f){
             isGrounded = true;
         }
         else{
@@ -68,6 +73,10 @@ public class Character : MonoBehaviour
                 Destroy(mouseHit.collider.gameObject);
             }
         }
+        if (transform.position.y <= destroy.transform.position.y){
+                Destroy(gameObject);
+                SceneManager.LoadScene("GameOver");
+            }
     }
 
     IEnumerator Walk(){
